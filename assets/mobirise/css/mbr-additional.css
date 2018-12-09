@@ -1175,6 +1175,27 @@ body {
   right: -1rem;
   top: -1rem;
 }
+.cid-rbIWpKg22m {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rbIWpKg22m blockquote {
+  color: #232323;
+  font-size: inherit;
+  font-style: normal;
+}
+.cid-rbIWpKg22m .mbr-iconfont {
+  z-index: 1;
+  position: absolute;
+  font-size: 9rem;
+  color: #232323;
+  opacity: .1;
+}
+.cid-rbIWpKg22m .mbr-iconfont.right-top {
+  right: -1rem;
+  top: -1rem;
+}
 .cid-rbIr4d2eR6 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1264,25 +1285,4 @@ body {
 }
 .cid-rbIr4d2eR6 .mbr-text {
   color: #ffbc00;
-}
-.cid-rbIUQGzh2a {
-  padding-top: 105px;
-  padding-bottom: 105px;
-  background-color: #ffffff;
-}
-.cid-rbIUQGzh2a blockquote {
-  color: #232323;
-  font-size: inherit;
-  font-style: normal;
-}
-.cid-rbIUQGzh2a .mbr-iconfont {
-  z-index: 1;
-  position: absolute;
-  font-size: 9rem;
-  color: #232323;
-  opacity: .1;
-}
-.cid-rbIUQGzh2a .mbr-iconfont.right-top {
-  right: -1rem;
-  top: -1rem;
 }
